@@ -1,2 +1,2 @@
 My github repo is established.
-Branch f1 is added, but now is master branch.
+Branch conflict fixed.
